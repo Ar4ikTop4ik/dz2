@@ -1,4 +1,4 @@
-e = 2
-m = 3
-x = (e+m)
-print(x)
+t = 2
+q = 3
+z = (t+q)
+print(z)
