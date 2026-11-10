@@ -1,5 +1,5 @@
-a = 2
-b = 3
-c = (a+b)
-b = (c*3)
-print(c)
+t = 2
+q = 3
+z = (t+q)
+b = (z*3)
+print(z)
