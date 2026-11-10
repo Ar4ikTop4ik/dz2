@@ -1,4 +1,4 @@
-a = 2
-b = 3
-c = (a+b)
-print(c)
+f = 2
+e = 3
+p = (f+e)
+print(p)
