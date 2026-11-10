@@ -1,4 +1,4 @@
-h = 2
-u = 3
-g = (h+u)
-print(g)
+e = 2
+m = 3
+x = (e+m)
+print(x)
